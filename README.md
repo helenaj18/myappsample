@@ -1,2 +1,2 @@
 #MyApp
-This is my app
+This is a test repository I did in a course in webprogramming.
